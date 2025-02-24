@@ -1,0 +1,15 @@
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\bin\Debug\net6.0\DSTALGOQueueApp.exe
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\bin\Debug\net6.0\DSTALGOQueueApp.deps.json
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\bin\Debug\net6.0\DSTALGOQueueApp.runtimeconfig.json
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\bin\Debug\net6.0\DSTALGOQueueApp.dll
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\bin\Debug\net6.0\DSTALGOQueueApp.pdb
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.csproj.AssemblyReference.cache
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.AssemblyInfoInputs.cache
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.AssemblyInfo.cs
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.dll
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\refint\DSTALGOQueueApp.dll
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.pdb
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\DSTALGOQueueApp.genruntimeconfig.cache
+C:\Users\WIN11\source\repos\DSTALGOQueueApp\obj\Debug\net6.0\ref\DSTALGOQueueApp.dll
